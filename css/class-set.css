@@ -1,0 +1,15 @@
+/* class setting */
+.border-red{
+  border: 5px solid red;
+}
+.border-bk{
+  border: 1px solid black;
+}
+.flex{
+  display: flex;
+}
+.flex-center-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
